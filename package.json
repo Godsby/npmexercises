@@ -1,0 +1,20 @@
+{
+  "name": "trychalk",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Lu",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godsby/npmexercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Godsby/npmexercises/issues"
+  },
+  "homepage": "https://github.com/Godsby/npmexercises#readme",
+  "description": ""
+}
