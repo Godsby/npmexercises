@@ -7,7 +7,9 @@
   },
   "author": "Leo Lu",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Godsby/npmexercises.git"
